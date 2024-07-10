@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Meter Reading Research.
 - 🌱 I’m currently learning Pytorch && React
 
+More [details](https://svtter.github.io/about/).
+
 <!--
 **Svtter/svtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
