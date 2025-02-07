@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Meter Reading Research.
-- 🌱 I’m currently learning Pytorch && React
+- 🔭 I’m currently working on LVLM && Meter Reading Research.
+- 🌱 I’m focusing on Django, Python and Pytorch.
 
 More [details](https://svtter.github.io/about/).
 
