@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+I create the word `Svtter/svtter` as my name.
+
 - 🔭 I’m currently working on LVLM && Meter Reading Research.
 - 🌱 I’m focusing on Django, Python and Pytorch.
+- ⚡ I'm the maintainer of [MeterHub](meterhub.sun-praise.com).
 
 More [details](https://svtter.github.io/about/).
 
