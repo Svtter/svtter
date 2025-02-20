@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I create the word `Svtter/svtter` as my name.
+I'm looking for a part-time job for LLMs applications building.
 
 - 🔭 I’m currently working on LVLM && Meter Reading Research.
 - 🌱 I’m focusing on Django, Python and Pytorch.
