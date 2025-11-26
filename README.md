@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I create the word `Svtter/svtter` as my name.
-I’m available for technical consulting and interesting remote part-time work.
+I'm Svtter.
 
 - 🔭 I’m currently working on LVLM && Meter Reading Research.
 - 🌱 I’m focusing on Django, Python and Pytorch.
 - ⚡ I'm the maintainer of [MeterHub](meterhub.sun-praise.com).
+
+I’m available for technical consulting and interesting remote part-time work.
 
 More [details](https://svtter.github.io/about/).
 
